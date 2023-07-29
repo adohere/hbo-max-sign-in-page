@@ -1,6 +1,7 @@
 # HBO Max Sign In Page Redesign
 
-![HBO Max Sign In Redesign - 1](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/655032c1-752b-4ff8-b254-353d73a6b17c)
+![HBO Max Sign In Redesign - 1](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/2219f938-f654-45e9-b86c-2444a0bc3fb6)
+
 
 
 ## Overview
@@ -30,11 +31,13 @@ You can check out the live demo of the HBO Max Sign In Page Redesign by clicking
 
 - Desktop View
 
-![HBO - Desktop View](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/7c99b3ae-f99c-43ee-b4da-74bf3748f406)
+![HBO - Desktop View](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/f8602cd0-4dc6-431e-8aa0-dcf0d80e10d1)
+
 
 - Mobile View
 
-![HBO - Mobile View](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/1dff883a-868d-49f3-886f-b5c9c723415c)
+![HBO - Mobile View](https://github.com/kojiado/hbo-max-sign-in-page/assets/127887180/b08c0f40-e8de-4b0b-89dd-cc7a17714f0f)
+
 
 
 ## Installation
